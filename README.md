@@ -9,6 +9,7 @@
  - Tailwind framework for frontend.
  - Node.js.
  - Express.js framework.
+ - Mongodb
  - PHP
 ## Reach me:
  - [https://www.linkedin.com/in/prashant-shukla7]
