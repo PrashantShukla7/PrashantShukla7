@@ -7,8 +7,9 @@
  
  - HTML, CSS, Javascript.
  - Tailwind framework for frontend.
- - Node.js.
- - Express.js framework.
+ - React JS
+ - Node JS.
+ - Express JS framework.
  - Mongodb
  - PHP
  - Java
