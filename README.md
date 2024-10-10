@@ -6,12 +6,14 @@
  ## My Tech Stacks
  
  - HTML, CSS, Javascript.
- - Tailwind framework for frontend.
+ - Tailwind framework .
  - React JS
  - Node JS.
  - Express JS framework.
  - Mongodb
+ - Git and Github
  - PHP
  - Java
+ - C Programming
 ## Reach me:
  - [https://www.linkedin.com/in/prashant-shukla7]
