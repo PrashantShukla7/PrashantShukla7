@@ -49,7 +49,4 @@
 
 ---
 
-### 💡 **Fun Fact**
-💻 Debugging is 90% of the coding process, but it's worth it when the code works seamlessly!
-
-![Thanks for visiting!](https://your-image-link-here.com/thank-you.png)
+## Thanks for visiting!
