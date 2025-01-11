@@ -3,12 +3,12 @@
 # 👋 Hi, I'm **Prashant Shukla**
 
 🎓 **BTech in Computer Science Engineering**  
-💻 **Passionate Full Stack Developer** with expertise in the MERN stack and PHP.
+💻 **Passionate Full Stack Developer** with expertise in the MERN stack.
 
 ---
 
 ## 🚀 **About Me**
-- 🔥 Full Stack Developer with a strong foundation in **MERN stack** and **PHP**.
+- 🔥 Full Stack Developer with a strong foundation in **MERN stack**.
 - 💡 Always exploring new technologies and improving coding skills.
 - 🎯 Aiming to solve real-world problems through technology.
 
