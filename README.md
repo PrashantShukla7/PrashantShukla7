@@ -67,4 +67,4 @@
 
 ---
 
-⭐ Thanks for visiting my profile! Keep building and testing amazing things!
+⭐ Thanks for visiting my profile!
